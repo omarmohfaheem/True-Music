@@ -1,0 +1,20 @@
+C:\Users\Omar Mohamed Faheem\source\repos\Music Player\Music Player\bin\Debug\Music Player.exe.config
+C:\Users\Omar Mohamed Faheem\source\repos\Music Player\Music Player\bin\Debug\Music Player.exe
+C:\Users\Omar Mohamed Faheem\source\repos\Music Player\Music Player\bin\Debug\Music Player.pdb
+C:\Users\Omar Mohamed Faheem\source\repos\Music Player\Music Player\obj\Debug\Music Player.csproj.AssemblyReference.cache
+C:\Users\Omar Mohamed Faheem\source\repos\Music Player\Music Player\obj\Debug\Music_Player.MusicPlayerForm.resources
+C:\Users\Omar Mohamed Faheem\source\repos\Music Player\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\Omar Mohamed Faheem\source\repos\Music Player\Music Player\obj\Debug\Music Player.csproj.GenerateResource.cache
+C:\Users\Omar Mohamed Faheem\source\repos\Music Player\Music Player\obj\Debug\Music Player.csproj.CoreCompileInputs.cache
+C:\Users\Omar Mohamed Faheem\source\repos\Music Player\Music Player\obj\Debug\Music Player.exe
+C:\Users\Omar Mohamed Faheem\source\repos\Music Player\Music Player\obj\Debug\Music Player.pdb
+C:\Users\Omar Mohamed Faheem\source\repos\Music Player\Music Player\bin\Debug\Guna.UI.dll
+C:\Users\Omar Mohamed Faheem\source\repos\Music Player\Music Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Omar Mohamed Faheem\source\repos\Music Player\Music Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Omar Mohamed Faheem\source\repos\Music Player\Music Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Omar Mohamed Faheem\source\repos\Music Player\Music Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Omar Mohamed Faheem\source\repos\Music Player\Music Player\obj\Debug\Music Player.csproj.ResolveComReference.cache
+C:\Users\Omar Mohamed Faheem\source\repos\Music Player\Music Player\bin\Debug\Resources\Play.png
+C:\Users\Omar Mohamed Faheem\source\repos\Music Player\Music Player\bin\Debug\Resources\Pause.png
+C:\Users\Omar Mohamed Faheem\source\repos\Music Player\Music Player\bin\Debug\Resources\output-onlinepngtools.png
+C:\Users\Omar Mohamed Faheem\source\repos\Music Player\Music Player\bin\Debug\Resources\output-onlinepngtools (1).png
